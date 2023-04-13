@@ -1,0 +1,204 @@
+[SIZE=16px][B]LITERATURE UPDATE[/B][/SIZE]
+Jun 03, 2022 - Jun 09, 2022
+
+Literature search terms: biomech* & locomot*
+
+Publications are classified by [URL="https://www.ryan-alcantara.com/projects/p88_BiomchBERT/"]BiomchBERT[/URL], a neural network trained on past Biomch-L Literature Updates. BiomchBERT is managed by [URL="https://jouterleys.github.io"]Jereme Outerleys[/URL], a Doctoral Student at Queen's University. Each publication has a score (out of 100%) reflecting how confident BiomchBERT is that the publication belongs in a particular category (top 2 shown). If something doesn't look right, email jereme.outerleys[at]queensu.ca.
+
+Twitter: [URL="https://www.twitter.com/jouterleys"]@jouterleys[/URL].
+
+
+
+[SIZE=16px][B]*CARDIOVASCULAR/PULMONARY*[/B][/SIZE]
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35690227"]Association of 3-Year All-Cause Mortality and Peak Wall Stresses of Ascending Thoracic Aortic Aneurysms in Veterans.[/URL][/B] Zamirpour S, Xuan Y, Wang Z, Gomez A, Hope MD, Leach J, Mitsouras D, Saloner DA, Guccione JM, Ge L, Tseng EE, [I]Seminars in thoracic and cardiovascular surgery[/I]. (98.4% CARDIOVASCULAR/CARDIOPULMONARY; 0.5% TISSUE/BIOMATERIAL)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35666823"]Vascular biomechanics and molecular disease activity in the thoracic aorta: a novel imaging method.[/URL][/B] Minderhoud SCS, Fletcher AJ, MacNaught G, Cadet S, Korteland SA, Kardys I, Rizopoulos D, Slomka P, Newby DE, Roos-Hesselink JW, Walker NL, Semple S, Hirsch A, Dweck MR, Wentzel JJ, [I]European heart journal. Cardiovascular Imaging[/I]. (97.3% CARDIOVASCULAR/CARDIOPULMONARY; 0.9% METHODS)
+
+
+[SIZE=16px][B]*CELLULAR*[/B][/SIZE]
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35674248"]Manganese dioxide nanosheet-containing reactors as antioxidant support for neuroblastoma cells.[/URL][/B] Savchak OK, Wang N, Ramos-Docampo MA, de Dios Andres P, Sebastião AM, Ribeiro FF, Armada-Moreira A, Städler B, Vaz SH, [I]Journal of materials chemistry. B[/I]. (94.3% CELLULAR/SUBCELLULAR; 3.5% TISSUE/BIOMATERIAL)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35484854"]Deep-learning-based 3D cellular force reconstruction directly from volumetric images.[/URL][/B] Duan X, Huang J, [I]Biophysical journal[/I]. (64.3% CELLULAR/SUBCELLULAR; 30.5% METHODS)
+
+
+[SIZE=16px][B]*COMPARATIVE*[/B][/SIZE]
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35679069"]Mudskippers modulate their locomotor kinematics when moving on deformable and inclined substrates.[/URL][/B] Naylor ER, Kawano SM, [I]Integrative and comparative biology[/I]. (91.4% COMPARATIVE; 4.1% GAIT/LOCOMOTION)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35678124"]The trunk-tail junctional region in Ciona larvae autonomously expresses tail-beating bursts at &#8764;20-s intervals.[/URL][/B] Hara T, Hasegawa S, Iwatani Y, Nishino AS, [I]The Journal of experimental biology[/I]. (50.9% NEURAL; 35.1% COMPARATIVE)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35673834"]Wing osteology, myology, and function of Rhea americana (Aves, Rheidae).[/URL][/B] Lo Coco GE, Motta MJ, Agnolín FL, Novas FE, [I]Journal of morphology[/I]. (86.3% COMPARATIVE; 9.7% EVOLUTION/ANTHROPOLOGY)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35662323"]Trends in Stroke Kinematics, Reynolds Number, and Swimming Mode in Shrimp-Like Organisms.[/URL][/B] Ruszczyk M, Webster DR, Yen J, [I]Integrative and comparative biology[/I]. (92.5% COMPARATIVE; 3.0% GAIT/LOCOMOTION)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35658072"]Responsive robotic prey reveal how predators adapt to predictability in escape tactics.[/URL][/B] Szopa-Comley AW, Ioannou CC, [I]Proceedings of the National Academy of Sciences of the United States of America[/I]. (60.9% COMPARATIVE; 23.0% ROBOTICS)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35657728"]Locomotor challenges of waterfall-climbing gobies during transitions between media.[/URL][/B] Maie T, [I]Integrative and comparative biology[/I]. (94.5% COMPARATIVE; 1.8% EVOLUTION/ANTHROPOLOGY)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35504284"]Nitric oxide signaling controls collective contractions in a colonial choanoflagellate.[/URL][/B] Reyes-Rivera J, Wu Y, Guthrie BGH, Marletta MA, King N, Brunet T, [I]Current biology : CB[/I]. (45.1% COMPARATIVE; 27.7% CELLULAR/SUBCELLULAR)
+
+
+[SIZE=16px][B]*DENTAL/ORAL/FACIAL*[/B][/SIZE]
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35689987"]Biomechanical behavior of endodontically treated premolars restored with different endocrown designs: Finite element study.[/URL][/B] Aldesoki M, Bourauel C, Morsi T, El-Anwar MI, Aboelfadl AK, Elshazly TM, [I]Journal of the mechanical behavior of biomedical materials[/I]. (99.1% DENTAL/ORAL/FACIAL; 0.2% TISSUE/BIOMATERIAL)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35685828"]Reversible, non-plaque-induced marginal bone loss around an osseointegrated implant: A case report.[/URL][/B] Lind KH, Ulvik IM, Berg E, Leknes KN, [I]Clinical case reports[/I]. (97.3% DENTAL/ORAL/FACIAL; 1.2% BONE)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35683299"]A Low-Cost Wireless Bite Force Measurement Device.[/URL][/B] De Pasquale P, Rubino E, Borzelli D, Peditto M, Nastro Siniscalchi E, De Ponte FS, Oteri G, d'Avella A, [I]Materials (Basel, Switzerland)[/I]. (61.6% DENTAL/ORAL/FACIAL; 29.5% METHODS)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35674468"]Influence of bone morphology on the mechanobiological stimuli distribution of maxillary anterior labial bone: A biomechanical study.[/URL][/B] Liao M, Wang C, Wang C, Xu Y, [I]Journal of esthetic and restorative dentistry : official publication of the American Academy of Esthetic Dentistry ... et al.[/I]. (81.1% DENTAL/ORAL/FACIAL; 16.8% BONE)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35667890"]Different implant diameters and their effect on stress distribution pattern in 2-implant mandibular overdentures: A 3D finite element analysis study.[/URL][/B] Patil PG, Seow LL, Uddanwadikar R, Pau A, Ukey PD, [I]The Journal of prosthetic dentistry[/I]. (95.3% DENTAL/ORAL/FACIAL; 2.9% PROSTHETICS/ORTHOTICS)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35665556"]Pharyngeal tongue base augmentation for dysphagia therapy: A prospective case series in patients post head and neck cancer treatment.[/URL][/B] Schar MS, Omari TI, Woods CM, Footner LR, Marshall N, Cock C, Thompson A, Nguyen T, Athanasiadis T, Ooi EH, [I]Head & neck[/I]. (76.9% DENTAL/ORAL/FACIAL; 6.7% REHABILITATION)
+
+
+[SIZE=16px][B]*EVOLUTION/ANTHROPOLOGY*[/B][/SIZE]
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35677394"]Determination of muscle strength and function in plesiosaur limbs: finite element structural analyses of Cryptoclidus eurymerus humerus and femur.[/URL][/B] Krahl A, Lipphaus A, Sander PM, Witzel U, [I]PeerJ[/I]. (83.0% EVOLUTION/ANTHROPOLOGY; 11.8% COMPARATIVE)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35670675"]Anatomy informs geology: Hydrodynamic dispersal of alligator bones, with implications for taphonomic interpretations of fossil deposits of crocodylians, dinosaurs, and other morphologically novel taxa.[/URL][/B] Blob RW, Espinoza IZG, Iijima M, [I]Anatomical record (Hoboken, N.J. : 2007)[/I]. (84.5% EVOLUTION/ANTHROPOLOGY; 8.9% COMPARATIVE)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35667203"]Feeding ecology of the last European colobine monkey, Dolichopithecus ruscinensis.[/URL][/B] Plastiras CA, Thiery G, Guy F, Kostopoulos DS, Lazzari V, Merceron G, [I]Journal of human evolution[/I]. (85.5% EVOLUTION/ANTHROPOLOGY; 7.3% COMPARATIVE)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35661427"]The effects of skull flattening on suchian jaw muscle evolution.[/URL][/B] Sellers KC, Nieto MN, Degrange FJ, Pol D, Clark JM, Middleton KM, Holliday CM, [I]Anatomical record (Hoboken, N.J. : 2007)[/I]. (85.9% EVOLUTION/ANTHROPOLOGY; 10.2% COMPARATIVE)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35661351"]Modifications of the locomotor system in habitually quadrupedal humans.[/URL][/B] Tardieu C, Demirhan O, Akbal E, Ozgozen L, Biçer ÖS, Delapré A, Cornette R, Herrel A, [I]Journal of anatomy[/I]. (94.2% EVOLUTION/ANTHROPOLOGY; 3.1% ERGONOMICS)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35660875"]Detecting Mismatch in Functional Narratives of Animal Morphology: a Test Case With Fossils.[/URL][/B] Hebdon N, Polly PD, Peterman DJ, Ritterbush KA, [I]Integrative and comparative biology[/I]. (72.2% EVOLUTION/ANTHROPOLOGY; 17.9% COMPARATIVE)
+
+
+[SIZE=16px][B]*GAIT/LOCOMOTION*[/B][/SIZE]
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35676743"]Effects of exercise habituation and aging on the intersegmental coordination of lower limbs during walking with sinusoidal speed change.[/URL][/B] Abe D, Motoyama K, Tashiro T, Saito A, Horiuchi M, [I]Journal of physiological anthropology[/I]. (95.1% GAIT/LOCOMOTION; 1.8% SPORT/EXERCISE)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35659252"]Muscle contributions to pre-swing biomechanical tasks influence swing leg mechanics in individuals post-stroke during walking.[/URL][/B] Brough LG, Kautz SA, Neptune RR, [I]Journal of neuroengineering and rehabilitation[/I]. (94.4% GAIT/LOCOMOTION; 2.6% REHABILITATION)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35658057"]Sex-specific tuning of modular muscle activation patterns for locomotion in young and older adults.[/URL][/B] Santuz A, Janshen L, Brüll L, Munoz-Martel V, Taborri J, Rossi S, Arampatzis A, [I]PloS one[/I]. (80.6% GAIT/LOCOMOTION; 11.6% NEURAL)
+
+
+[SIZE=16px][B]*HAND/FINGER/FOOT/TOE*[/B][/SIZE]
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35687915"]Temporal synchronization for in-phase and antiphase movements during bilateral finger- and foot-tapping tasks.[/URL][/B] Numata A, Terao Y, Owari N, Kakizaki C, Sugawara K, Ugawa Y, Furubayashi T, [I]Human movement science[/I]. (68.2% HAND/FINGER/FOOT/TOE; 12.2% GAIT/LOCOMOTION)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35668453"]The Amsterdam Foot Model: a clinically informed multi-segment foot model developed to minimize measurement errors in foot kinematics.[/URL][/B] Schallig W, van den Noort JC, Piening M, Streekstra GJ, Maas M, van der Krogt MM, Harlaar J, [I]Journal of foot and ankle research[/I]. (94.0% HAND/FINGER/FOOT/TOE; 4.0% MODELING)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35655233"]Footwear, foot orthoses and strengthening exercises for the non-surgical management of hallux valgus: protocol for a randomised pilot and feasibility trial.[/URL][/B] Menz HB, Lim PQ, Hurn SE, Mickle KJ, Buldt AK, Cotchett MP, Roddy E, Wluka AE, Erbas B, Munteanu SE, [I]Journal of foot and ankle research[/I]. (53.5% HAND/FINGER/FOOT/TOE; 30.3% PROSTHETICS/ORTHOTICS)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35656925"]Morphologies in-between: the impact of the first steps on the human talus.[/URL][/B] Figus C, Stephens NB, Sorrentino R, Bortolini E, Arrighi S, Higgins OA, Lugli F, Marciani G, Oxilia G, Romandini M, Silvestrini S, Baruffaldi F, Belcastro MG, Bernardini F, Festa A, Hajdu T, Mateovics-László O, Pap I, Szeniczey T, Tuniz C, Ryan TM, Benazzi S, [I]Anatomical record (Hoboken, N.J. : 2007)[/I]. (66.1% HAND/FINGER/FOOT/TOE; 17.5% EVOLUTION/ANTHROPOLOGY)
+
+
+[SIZE=16px][B]*JOINT/CARTILAGE*[/B][/SIZE]
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35682994"]Cartilage Homeostasis and Osteoarthritis.[/URL][/B] Fujii Y, Liu L, Yagasaki L, Inotsume M, Chiba T, Asahara H, [I]International journal of molecular sciences[/I]. (96.5% JOINT/CARTILAGE; 1.2% BONE)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35674255"]Intra-articular Injection of Mesenchymal Stem Cells after High Tibial Osteotomy in Osteoarthritic Knee: Two-Year Follow-up of Randomized Control Trial.[/URL][/B] Kim JH, Kim KI, Yoon WK, Song SJ, Jin W, [I]Stem cells translational medicine[/I]. (94.1% JOINT/CARTILAGE; 3.0% ORTHOPAEDICS/SURGERY)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35657996"]A musculoskeletal finite element model of rat knee joint for evaluating cartilage biomechanics during gait.[/URL][/B] Orozco GA, Karjalainen K, Moo EK, Stenroth L, Tanska P, Rios JL, Tuomainen TV, Nissi MJ, Isaksson H, Herzog W, Korhonen RK, [I]PLoS computational biology[/I]. (59.6% JOINT/CARTILAGE; 35.9% MODELING)
+
+
+[SIZE=16px][B]*METHODS*[/B][/SIZE]
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35678737"]Mechanoluminescence from an Ion-Irradiated Single Crystal of Lithium Niobium Oxide.[/URL][/B] Chen F, Jiang T, Zhai B, Liu Y, Yang X, Wang X, Ren F, Tu D, Ding T, [I]The journal of physical chemistry letters[/I]. (43.5% METHODS; 20.3% TISSUE/BIOMATERIAL)
+
+
+[SIZE=16px][B]*MODELING*[/B][/SIZE]
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35679513"]Real-time biomechanical modelling of the liver using LightGBM model.[/URL][/B] Zhu J, Su Y, Liu Z, Liu B, Sun Y, Gao W, Fu Y, [I]The international journal of medical robotics + computer assisted surgery : MRCAS[/I]. (97.5% MODELING; 1.2% METHODS)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35679091"]The spring-mass model and other reductionist models of bipedal locomotion on inclines.[/URL][/B] Selvitella AM, Foster KL, [I]Integrative and comparative biology[/I]. (88.9% MODELING; 5.7% GAIT/LOCOMOTION)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35674811"]Foundational science and mechanistic insights for a shared disease model: an expert consensus : Developed by the AUGS Basic Science Subcommittee and IUGA Special Interest Group.[/URL][/B] Alperin M, Abramowitch S, Alarab M, Bortolini M, Brown B, Burnett LA, Connell KA, Damaser M, de Vita R, Gargett CE, Guess MK, Guler Z, Jorge RN, Kelley RS, Kibschull M, Miller K, Moalli PA, Mysorekar IU, Routzong MR, Shynlova O, Swenson CW, Therriault MA, Northington GM, [I]International urogynecology journal[/I]. (48.3% MODELING; 10.2% CELLULAR/SUBCELLULAR)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35673857"]Computational lung modelling in respiratory medicine.[/URL][/B] Neelakantan S, Xin Y, Gaver DP, Cereda M, Rizi R, Smith BJ, Avazmohammadi R, [I]Journal of the Royal Society, Interface[/I]. (80.2% MODELING; 13.6% CARDIOVASCULAR/CARDIOPULMONARY)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35667570"]Evaluation of DIR schemes on tumor/organ with progressive shrinkage: accuracy of tumor/organ internal tissue tracking during the radiation treatment.[/URL][/B] Qin A, Chen S, Liang J, Snyder M, Yan D, [I]Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology[/I]. (53.0% MODELING; 28.1% METHODS)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35655295"]A finite element model of the shoulder: application to the changes of biomechanical environment induced by postoperative malrotation of humeral shaft fracture.[/URL][/B] Wang C, Ma XY, Lu LT, Guo Z, Dai GF, [I]BMC musculoskeletal disorders[/I]. (64.9% MODELING; 12.6% ORTHOPAEDICS/SURGERY)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35657829"]Simulation of Postoperative Facial Appearances via Geometric Deep Learning for Efficient Orthognathic Surgical Planning.[/URL][/B] Ma L, Xiao D, Kim D, Lian C, Kuang T, Liu Q, Deng H, Yang E, Liebschner MAK, Gateno J, Xia JJ, Yap PT, [I]IEEE transactions on medical imaging[/I]. (56.1% MODELING; 34.4% DENTAL/ORAL/FACIAL)
+
+
+[SIZE=16px][B]*MUSCLE*[/B][/SIZE]
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35675426"]Chitin deacetylases are necessary for insect femur muscle attachment and mobility.[/URL][/B] Mun S, Noh MY, Geisbrecht ER, Kramer KJ, Muthukrishnan S, Arakane Y, [I]Proceedings of the National Academy of Sciences of the United States of America[/I]. (71.2% MUSCLE; 18.6% COMPARATIVE)
+
+
+[SIZE=16px][B]*NEURAL*[/B][/SIZE]
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35680657"]Mental rotation of hands and objects in ageing and Parkinson's disease: differentiating motor imagery and visuospatial ability.[/URL][/B] Bek J, Humphries S, Poliakoff E, Brady N, [I]Experimental brain research[/I]. (85.6% NEURAL; 3.3% HAND/FINGER/FOOT/TOE)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35675900"]Stochastic spinal neuromodulation tunes the intrinsic logic of spinal neural networks.[/URL][/B] Taccola G, Ichiyama RM, Edgerton VR, Gad P, [I]Experimental neurology[/I]. (97.4% NEURAL; 0.7% ORTHOPAEDICS/SPINE)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35671176"]Acute behavioral and Neurochemical Effects of Novel N-Benzyl-2-Phenylethylamine Derivatives in Adult Zebrafish.[/URL][/B] Demin KA, Kupriyanova OV, Shevyrin VA, Derzhavina KA, Krotova NA, Ilyin NP, Kolesnikova TO, Galstyan DS, Kositsyn YM, Khaybaev AS, Seredinskaya MV, Dubrovskii Y, Sadykova RG, Nerush MO, Mor MS, Petersen EV, Strekalova T, Efimova EV, Kuvarzin SR, Yenkoyan KB, Bozhko DV, Myrov VO, Kolchanova SM, Polovian AI, Galumov GK, Kalueff AV, [I]ACS chemical neuroscience[/I]. (53.5% NEURAL; 14.2% COMPARATIVE)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35655162"]Association between CLOCK 3111 T/C polymorphism with ghrelin, GLP-1, food timing, sleep and chronotype in overweight and obese Iranian adults.[/URL][/B] Rahati S, Qorbani M, Naghavi A, Nia MH, Pishva H, [I]BMC endocrine disorders[/I]. (21.1% NEURAL; 9.4% ERGONOMICS)
+
+
+[SIZE=16px][B]*ORTHOPAEDICS (SPINE)*[/B][/SIZE]
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35688374"]Is gender a factor affecting long-term heterotopic ossification incidence after single-level cervical disc arthroplasty?[/URL][/B] Bongetta D, Bua M, Bruno R, Colombo EV, de Laurentis C, Versace A, Locatelli M, Assietti R, [I]World neurosurgery[/I]. (98.2% ORTHOPAEDICS/SPINE; 1.1% ORTHOPAEDICS/SURGERY)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35671943"]Spondylophyte classification based on biomechanical effects on segmental stiffness.[/URL][/B] Farshad M, Cornaz F, Spirig JM, Sutter R, Farshad-Amacker NA, Widmer J, [I]The spine journal : official journal of the North American Spine Society[/I]. (98.6% ORTHOPAEDICS/SPINE; 0.3% ORTHOPAEDICS/SURGERY)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35657474"]Biomechanical investigation of intra-articular cage and cantilever technique in the treatment of congenital basilar invagination combined with atlantoaxial dislocation: a finite element analysis.[/URL][/B] Zhao G, Song M, Duan W, Chen Z, Xue Y, [I]Medical & biological engineering & computing[/I]. (97.1% ORTHOPAEDICS/SPINE; 1.6% ORTHOPAEDICS/SURGERY)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35657438"]Biomechanical role of cement augmentation in the vibration characteristics of the osteoporotic lumbar spine after lumbar interbody fusion.[/URL][/B] Wang QD, Guo LX, [I]Journal of materials science. Materials in medicine[/I]. (97.5% ORTHOPAEDICS/SPINE; 1.3% MODELING)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35656700"]Effect of the In Situ Screw Implantation Region and Angle on the Stability of Lateral Lumbar Interbody Fusion: A Finite Element Study.[/URL][/B] Zhu G, Wu Z, Fang Z, Zhang P, He J, Yu X, Ge Z, Tang K, Liang, Jiang X, Liang Z, Cui J, [I]Orthopaedic surgery[/I]. (97.4% ORTHOPAEDICS/SPINE; 1.6% ORTHOPAEDICS/SURGERY)
+
+
+[SIZE=16px][B]*ORTHOPAEDICS (SURGERY)*[/B][/SIZE]
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35672754"]Monteggia fractures: analysis of patient-reported outcome measurements in correlation with ulnar fracture localization.[/URL][/B] Tille E, Seidel L, Schlüßler A, Beyer F, Kasten P, Bota O, Biewener A, Nowotny J, [I]Journal of orthopaedic surgery and research[/I]. (56.7% ORTHOPAEDICS/SURGERY; 31.9% HAND/FINGER/FOOT/TOE)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35671930"]Biomechanical Comparison of Lower Trapezius and Latissimus Dorsi Transfer for Irreparable Posterosuperior Rotator Cuff Tears Using a Dynamic Shoulder Model.[/URL][/B] Muench LN, Berthold DP, Kia C, Obopilwe E, Cote MP, Imhoff AB, Scheiderer B, Elhassan BT, Beitzel K, Mazzocca AD, [I]Journal of shoulder and elbow surgery[/I]. (56.2% ORTHOPAEDICS/SURGERY; 9.0% JOINT/CARTILAGE)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35661090"]All-Inside Meniscus Repair.[/URL][/B] Golz AG, Mandelbaum B, Pace JL, [I]Current reviews in musculoskeletal medicine[/I]. (63.2% ORTHOPAEDICS/SURGERY; 21.5% JOINT/CARTILAGE)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35659004"]Femoral periprosthetic fracture treatment using the Ortho-Bridge System: a biomechanical study.[/URL][/B] Long Y, Qi Y, Zuo G, Zhang Q, Liu Z, Wang W, [I]Journal of orthopaedic surgery and research[/I]. (66.8% ORTHOPAEDICS/SURGERY; 26.1% PROSTHETICS/ORTHOTICS)
+
+
+[SIZE=16px][B]*PROSTHETICS/ORTHOTICS*[/B][/SIZE]
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35655172"]3D analysis of the distal ulna with regard to the design of a new ulnar head prosthesis.[/URL][/B] Furrer PR, Nagy L, Reissner L, Schweizer A, [I]BMC musculoskeletal disorders[/I]. (83.6% PROSTHETICS/ORTHOTICS; 11.0% ORTHOPAEDICS/SURGERY)
+
+
+[SIZE=16px][B]*REHABILITATION*[/B][/SIZE]
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35690253"]Functional Resistance Training after Anterior Cruciate Ligament Reconstruction Improves Knee Angle and Moment Symmetry during Gait: A Randomized Controlled Clinical Trial.[/URL][/B] Johnson AK, Brown SR, Palmieri-Smith RM, Krishnan C, [I]Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association[/I]. (86.2% REHABILITATION; 3.4% ERGONOMICS)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35674709"]Development and deployment of cyclical focal muscle vibration system to improve walking performance in multiple sclerosis.[/URL][/B] Hardin EC, Bailey SN, Kobetic R, Lombardo LM, Foglyano KM, Schnellenberger JR, Selkirk SM, [I]Journal of medical engineering & technology[/I]. (53.1% REHABILITATION; 34.8% GAIT/LOCOMOTION)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35670001"]Gains in Daily Stepping Activity in People with Chronic Stroke after High-Intensity Gait Training in Variable Contexts.[/URL][/B] Hornby TG, Plawecki A, Lotter JK, Scofield ME, Lucas E, Henderson CE, [I]Physical therapy[/I]. (79.4% REHABILITATION; 15.9% ERGONOMICS)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35655180"]Soft robotic exosuit augmented high intensity gait training on stroke survivors: a pilot study.[/URL][/B] Shin SY, Hohl K, Giffhorn M, Awad LN, Walsh CJ, Jayaraman A, [I]Journal of neuroengineering and rehabilitation[/I]. (86.8% REHABILITATION; 9.1% ERGONOMICS)
+
+
+[SIZE=16px][B]*ROBOTICS*[/B][/SIZE]
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35671518"]Bioinspired Amphibious Origami Robot with Body Sensing for Multimodal Locomotion.[/URL][/B] Dong H, Yang H, Ding S, Li T, Yu H, [I]Soft robotics[/I]. (99.4% ROBOTICS; 0.2% MODELING)
+
+
+[SIZE=16px][B]*SPORT/EXERCISE*[/B][/SIZE]
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35675034"]Kinematic and dynamic analyses of the front crawl tumble turn in elite female swimmers.[/URL][/B] Puel F, Morlier J, Pyne D, Hellard P, [I]Sports biomechanics[/I]. (98.1% SPORT/EXERCISE; 0.5% GAIT/LOCOMOTION)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35674850"]Stroke Kinematics, Temporal Patterns, Neuromuscular Activity, Pacing and Kinetics in Elite Breaststroke Swimming: A Systematic Review.[/URL][/B] Nicol E, Pearson S, Saxby D, Minahan C, Tor E, [I]Sports medicine - open[/I]. (98.8% SPORT/EXERCISE; 0.3% COMPARATIVE)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35659480"]Intra- and inter-cycle velocity variations in sprint front crawl swimming.[/URL][/B] Fernandes A, Mezêncio B, Soares S, Duarte Carvalho D, Silva A, Vilas-Boas JP, Fernandes RJ, [I]Sports biomechanics[/I]. (96.0% SPORT/EXERCISE; 1.8% GAIT/LOCOMOTION)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35657360"]Factor analysis of the biomechanical parameters of pole vault run-up and takeoff: exploring sports performance.[/URL][/B] Li X, Xia Z, Liu F, Guo J, Wu X, Liu Y, [I]Sports biomechanics[/I]. (98.8% SPORT/EXERCISE; 0.3% METHODS)
+
+
+[SIZE=16px][B]*TENDON/LIGAMENT*[/B][/SIZE]
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35678911"]A Novel Low Air Pressure-Assisted Approach for the Construction of Cells-Decellularized Tendon Scaffold Complex.[/URL][/B] Huang X, Lv ZT, Cheng P, Chen AM, [I]Current medical science[/I]. (68.2% TENDON/LIGAMENT; 29.1% TISSUE/BIOMATERIAL)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35674273"]Comparison of the mechanical properties and anchoring performance of polyvinylidene fluoride and polypropylene barbed sutures for tendon repair.[/URL][/B] Huang Y, Cadet ER, King MW, Cole JH, [I]Journal of biomedical materials research. Part B, Applied biomaterials[/I]. (57.3% TENDON/LIGAMENT; 35.0% ORTHOPAEDICS/SURGERY)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35671455"]Optimizing the Pulvertaft Weave Technique: A Comprehensive Systematic Review of Comparative Biomechanical Studies.[/URL][/B] Graham EM, Oliver JD, Hendrycks R, Mendenhall SD, [I]Plastic and reconstructive surgery[/I]. (45.7% TENDON/LIGAMENT; 45.4% ORTHOPAEDICS/SURGERY)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35658629"]Closure of the Quadriceps Tendon Autograft Harvest Site for Anterior Cruciate Ligament Reconstruction: A Systematic Review.[/URL][/B] Cole WW, Saraf SM, Stamm M, Mulcahey MK, [I]The American journal of sports medicine[/I]. (79.6% TENDON/LIGAMENT; 15.4% ORTHOPAEDICS/SURGERY)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35609612"]Rapid fabrication of tendon-like collagen gel via simultaneous fibre alignment and intermolecular cross-linking under mechanical loading.[/URL][/B] Maeda E, Kawamura R, Suzuki T, Matsumoto T, [I]Biomedical materials (Bristol, England)[/I]. (77.3% TENDON/LIGAMENT; 21.2% TISSUE/BIOMATERIAL)
+
+
+[SIZE=16px][B]*TISSUE/BIOMATERIAL*[/B][/SIZE]
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35671876"]Mesh Deformation: a mechanism underlying polypropylene prolapse mesh complications in vivo.[/URL][/B] Knight KM, King GE, Palcsey SL, Suda A, Liang R, Moalli PA, [I]Acta biomaterialia[/I]. (93.8% TISSUE/BIOMATERIAL; 2.5% PROSTHETICS/ORTHOTICS)
+
+
+[SIZE=16px][B]*VISUAL/VESTIBULAR*[/B][/SIZE]
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35665874"]Finite element method for estimation of applanation force and to study the influence of intraocular pressure of eye on tonometry.[/URL][/B] Bharathi RB, Poojary RG, Prabhu GK, Ve RS, [I]International ophthalmology[/I]. (88.1% VISUAL/VESTIBULAR; 6.0% METHODS)
+
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35658844"]Fourteen years follow-up of a stable unilateral Keratoconus: unique case report of clinical, tomographical and biomechanical stability.[/URL][/B] Saad A, Rizk M, Gatinel D, [I]BMC ophthalmology[/I]. (91.3% VISUAL/VESTIBULAR; 5.6% TISSUE/BIOMATERIAL)
+
+
+[SIZE=16px][B]*PICK OF THE WEEK*[/B][/SIZE]
+[B][URL="https://www.ncbi.nlm.nih.gov/pubmed/35657996"]A musculoskeletal finite element model of rat knee joint for evaluating cartilage biomechanics during gait.[/URL][/B] Orozco GA, Karjalainen K, Moo EK, Stenroth L, Tanska P, Rios JL, Tuomainen TV, Nissi MJ, Isaksson H, Herzog W, Korhonen RK, [I]PLoS computational biology[/I]. (59.6% JOINT/CARTILAGE; 35.9% MODELING)
+
+
