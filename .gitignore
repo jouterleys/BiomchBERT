@@ -91,7 +91,17 @@ Webscraper/__pycache__/
 
 ### Large Files ###
 Data/BiomchBERT/
+Data/BiomchBERT_V3/
 Data/BiomchBERT.zip
 Data/Biomch-L*
+
+#### Updates Files and prior_papers.csv ####
+Updates/
+
 ### Old Biomch-L Files ###
 OLD_BIOMCH-L_LIT_UPDATE/
+
+### Other ###
+*.gsheet
+*.gdoc
+*.gslides
